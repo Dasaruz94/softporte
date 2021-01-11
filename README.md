@@ -3,6 +3,8 @@ Sistema web administrativo para administrar soporte tecnico.
 
 Creado en el año 2015 para la empresa "Compuhardware"
 
+Realizado con HTML, CSS, Javascript, PHP plano, Mysql.
+
 
 Catalogos de Software y equipos.
 
