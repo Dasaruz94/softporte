@@ -1,7 +1,8 @@
 # softporte
 Sistema web administrativo para administrar soporte tecnico. 
 
-Creado en el año 2015
+Creado en el año 2015 para la empresa "Compuhardware"
+
 
 Catalogos de Software y equipos.
 
